@@ -14,21 +14,17 @@
 
 ---
 
-Floqer enriches and cleans your CRM with accurate email, phone, and 75+ data points using AI agents that deliver real-time, actionable insights. Automate prospect research, data enrichment, and outbound workflows with 100+ actions and 20+ integrations — built for marketing, sales, and revenue teams.
+This is the official GitHub organization for [Floqer](https://floqer.com). We build AI-powered tools that help GTM teams automate their data and outbound workflows.
 
-## Open Source
+**What Floqer does:**
 
-**Developer Tools**
+- Enrich and clean your CRM with accurate email, phone, and 75+ data points
+- Automate prospect research with AI agents that deliver real-time, actionable insights
+- Connect to 20+ integrations and run 100+ workflow actions out of the box
+- Built for marketing, sales, and revenue teams
 
-- [`floqer-cli`](https://github.com/Floqer/floqer-cli) — Command-line interface for Floqer workflows
-- [`mcp`](https://github.com/Floqer/mcp) — Model Context Protocol server for AI agent integrations
+We're exploring making some of our developer tools and integrations publicly available — stay tuned.
 
-**Integrations**
-
-- [`browser-extension`](https://github.com/Floqer/browser-extension) — Chrome extension for Floqer
-
-More repositories coming soon.
-
-## Learn More
+---
 
 [Website](https://floqer.com) · [Documentation](https://docs.floqer.com) · [Blog](https://floqer.com/blog) · [Changelog](https://floqer.com/changelog) · [Careers](https://floqer.com/careers)
