@@ -25,6 +25,19 @@ This is the official GitHub organization for [Floqer](https://floqer.com). We bu
 
 We're exploring making some of our developer tools and integrations publicly available — stay tuned.
 
+## Code activity
+
+<div align="center">
+
+<!-- Org-wide commit activity (aggregated across Floqer repos) -->
+<img src="https://repobeats.axiom.co/api/embed/REPLACE_WITH_REPOBEATS_HASH.svg" alt="Floqer repo activity" />
+
+<!-- Org stats card (note: may be sparse for orgs / private repos) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Floqer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Floqer GitHub stats" />
+
+</div>
+
+
 ---
 
 [Website](https://floqer.com) · [Documentation](https://docs.floqer.com) · [Blog](https://floqer.com/blog) · [Changelog](https://floqer.com/changelog) · [Careers](https://floqer.com/careers)
